@@ -28,7 +28,14 @@ dynamodb.
 
 В виде результата работы пришлите:
 * Вывод команды `terraform workspace list`.
-* Вывод команды `terraform plan` для воркспейса `prod`.  
+```bash
+$ terraform workspace list
+  default
+  prod
+* stage
+```
+* Вывод команды `terraform plan` для воркспейса `prod`.
+[terraform_plan_view](./terraform.plan.md)  
 
 ---
 

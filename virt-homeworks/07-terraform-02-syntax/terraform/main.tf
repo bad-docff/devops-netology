@@ -9,10 +9,10 @@ terraform {
 }
 
 provider "yandex" {
-  token     = "YC_TOKEN"
-  cloud_id  = "YC_CLOUD_ID"
-  folder_id = "YC_FOLDER_ID"
-  zone      = "YC_ZONE"
+  # token     = "YC_TOKEN"
+  # cloud_id  = "YC_CLOUD_ID"
+  # folder_id = "YC_FOLDER_ID"
+  # zone      = "YC_ZONE"
 }
 
 // Create a new instance

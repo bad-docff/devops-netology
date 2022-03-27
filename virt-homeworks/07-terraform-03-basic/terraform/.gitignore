@@ -1,0 +1,6 @@
+tokens.md
+meta.txt
+static.key.md
+terraform.tfstate*
+.terraform.lock.hcl
+.terraform/

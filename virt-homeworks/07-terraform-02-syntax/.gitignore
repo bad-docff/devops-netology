@@ -2,3 +2,4 @@ tokens.md
 meta.txt
 .terraform.lock.hcl
 .terraform/
+terraform.tfstate*
