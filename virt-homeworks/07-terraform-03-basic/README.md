@@ -35,6 +35,7 @@ $ terraform workspace list
 * stage
 ```
 * Вывод команды `terraform plan` для воркспейса `prod`.
+
 [terraform_plan_view](./terraform.plan.md)  
 
 ---
