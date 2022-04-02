@@ -21,3 +21,4 @@
 1. [Облачные провайдеры и синтаксис Terraform](07-terraform-02-syntax/README.md)
 1. [Основы Terraform](07-terraform-03-basic/README.md)
 1. [Средства командной работы](07-terraform-04-teamwork/README.md)
+1. [Введение в Golang](07-terraform-05-golang/README.md)
