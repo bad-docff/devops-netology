@@ -4,3 +4,4 @@
 ### Система управления конфигурациями
 1. -
 1. [Работа с Playbook](./08-ansible-02-playbook/README.md)
+1. [Использование Yandex Cloud](./08-ansible-03-yandex/README.md)

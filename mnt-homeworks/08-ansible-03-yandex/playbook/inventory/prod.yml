@@ -1,0 +1,20 @@
+---
+clickhouse:
+  hosts:
+    clickhouse-01:
+      ansible_host: 84.201.177.38
+      ansible_user: ansible-robot
+      ansible_connection: ssh 
+Vector:
+  hosts:
+    Vector-01:
+      ansible_host: 51.250.24.203
+      ansible_user: ansible-robot
+      ansible_connection: ssh
+      
+lighthouse:
+  hosts:
+    lighthouse-01:
+      ansible_host: 51.250.16.225
+      ansible_user: ansible-robot
+      ansible_connection: ssh
